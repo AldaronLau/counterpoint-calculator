@@ -1,0 +1,6 @@
+[package]
+name = "counterpoint-calculator"
+version = "0.1.0"
+authors = ["Jeron Aldaron Lau <jeron.lau@plopgrizzly.com>"]
+
+[dependencies]
